@@ -1,0 +1,273 @@
+nav {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* .play-game {
+    text-align:center;
+} */
+.experience {
+    text-align: center;
+}
+
+.navbar-brand {
+    padding: 0.8em;
+}
+
+.mainbg .btn {
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(238, 188, 24);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.mainbg .btn:hover {
+    background-color: red;
+}
+
+h1 {
+    position: absolute;
+    top: 500px;
+    right: 100px;
+    left: 430px;
+    z-index: 11;
+    color: whitesmoke;
+}
+
+h4 {
+    position: absolute;
+    top: 550px;
+    right: 50px;
+    left: 50px;
+    z-index: 11;
+    color: whitesmoke;
+}
+
+.games {
+    position: absolute;
+    top: 1350px;
+    left: 125px;
+    z-index: 11;
+    color: whitesmoke;
+}
+
+.thegames {
+    position: absolute;
+    top: 1365px;
+    left: 125px;
+    z-index: 11;
+    color: whitesmoke;
+}
+
+.carousel {
+    position: absolute;
+    top: 1350px;
+    right: 100px;
+}
+
+.what {
+    position: absolute;
+    top: 2350px;
+    left: 800px;
+    z-index: 11;
+    color: whitesmoke;
+}
+
+.features {
+    position: absolute;
+    top: 2366px;
+    left: 800px;
+    z-index: 11;
+    color: whitesmoke;
+}
+
+.traditional {
+    position: absolute;
+    color: rgb(253, 208, 82);
+    top: 2466px;
+    left: 819px;
+}
+
+.child {
+    position: absolute;
+    top: 2487px;
+    left: 819px;
+    color: whitesmoke;
+}
+
+.gamesuit {
+    position: absolute;
+    top: 2540px;
+    left: 819px;
+    color: rgb(253, 208, 82);
+}
+
+.tbd {
+    position: absolute;
+    top: 2580px;
+    left: 819px;
+    color: rgb(253, 208, 82);
+}
+
+.top {
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    top: 3150px;
+    left: 500px;
+    color: whitesmoke;
+}
+
+.system-req {
+    position: absolute;
+    font-family: Arial;
+    top: 3150px;
+    left: 180px;
+    color: whitesmoke;
+}
+
+.table {
+    position: absolute;
+    top: 3375px;
+    left: 175px;
+    color: white;
+    border: thin white;
+    padding: 10px;
+    width: 15cm;
+}
+
+.score {
+    position: absolute;
+    font-family: Arial;
+    top: 4430px;
+    left: 180px;
+}
+
+.score2 {
+    position: absolute;
+    font-family: Arial;
+    color: whitesmoke;
+    top: 4480px;
+    left: 180px;
+}
+
+.btn2 {
+    position: absolute;
+    top: 4590px;
+    left: 180px;
+    background-color: rgb(238, 188, 24);
+    color: black;
+    font-size: 16px;
+    padding: 10px 50px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn2:hover {
+    background-color: red;
+}
+
+.img {
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+}
+
+.card1 {
+    position: absolute;
+    top: 4124px;
+    right: 120px;
+}
+
+.card-title {
+    color: rgb(253, 208, 82);
+}
+
+.card-text {
+    color: white;
+}
+
+.card2 {
+    position: absolute;
+    top: 4324px;
+    right: 150px;
+}
+
+.card3 {
+    position: absolute;
+    top: 4524px;
+    right: 130px;
+}
+
+.patung {
+    position: absolute;
+    top: 5240px;
+    left: 180px;
+}
+
+.stay {
+    position: absolute;
+    color: white;
+    font-size: x-large;
+    top: 5250px;
+    left: 700px;
+}
+
+.news {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 56px;
+    top: 5330px;
+    left: 700px;
+}
+
+.order {
+    position: absolute;
+    color: white;
+    top: 5480px;
+    left: 700px;
+}
+
+.youremail {
+    position: absolute;
+    background-color: black;
+    color: whitesmoke;
+    width: 290px;
+    height: 40px;
+    top: 5590px;
+    left: 700px;
+}
+
+.subs {
+    position: absolute;
+    top: 5590px;
+    left: 1000px;
+    width: 200px;
+    height: 40px;
+    background-color: rgb(238, 188, 24);
+    color: black;
+    font-size: 16px;
+    padding: 10px 50px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.subs:hover {
+    background-color: red;
+}
+
+.list-inline {
+    position: absolute;
+    color: whitesmoke;
+    top: 5960px;
+    right: 1px;
+}

@@ -1,0 +1,40 @@
+.thegame {
+    background-image: url(assets/main-bg.jpg);
+    position: absolute;
+}
+/* .nav-link {
+    display: block;
+    padding: 1rem rem;
+    color: #0d6efd;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+} */
+
+/* .btn-lg {
+    position: relative;
+    width: 50%;
+    background-color: chocolate;
+    color: black;
+    padding: 0.5em;
+
+} */
+
+/* .d-grid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+} */
+/* .mainbg {
+    position: relative;
+    z-index: 1;
+    top: 0px;
+} */
